@@ -1,0 +1,12 @@
+.Counter button {
+    font-size: 1.5rem;
+}
+
+.Counter {
+    border: 1px solid black;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
